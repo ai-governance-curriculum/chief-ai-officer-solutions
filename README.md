@@ -4,7 +4,7 @@
 > 🎓 Part of the **free, open-source AI Infrastructure Curriculum**. For live, instructor-led **[cohorts](https://ai-infra-curriculum.github.io/junior.html)** and **[team programs](https://ai-infra-curriculum.github.io/teams.html)**, visit **[ai-infra-curriculum.github.io](https://ai-infra-curriculum.github.io/)**.
 <!-- /aicg:site-banner -->
 
-Reference implementations for the paired [`ai-infra-chief-ai-officer-learning`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning) track.
+Reference implementations for the paired [`ai-infra-chief-ai-officer-learning`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning) track.
 
 > **Status**: scaffolded by `aicg org bootstrap-role`. Module and project solutions arrive over subsequent autonomous cycles.
 

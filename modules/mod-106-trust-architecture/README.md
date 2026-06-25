@@ -1,6 +1,6 @@
 # Module 106 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-106-trust-architecture`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-106-trust-architecture).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-106-trust-architecture`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-106-trust-architecture).
 
 Same conventions as mod-101 to mod-105 — worked answers,
 not the answer. Each solution ends with reasoning notes.

@@ -1,6 +1,6 @@
 # Module 109 — Quiz Answer Key
 
-Answers and explanations for the [Module 109 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-109-compliance-operations/quiz.md).
+Answers and explanations for the [Module 109 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-109-compliance-operations/quiz.md).
 
 ---
 

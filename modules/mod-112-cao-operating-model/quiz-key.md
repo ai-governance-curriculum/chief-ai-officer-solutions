@@ -1,6 +1,6 @@
 # Module 112 — Quiz Answer Key
 
-Answers and explanations for the [Module 112 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-112-cao-operating-model/quiz.md).
+Answers and explanations for the [Module 112 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-112-cao-operating-model/quiz.md).
 
 ---
 

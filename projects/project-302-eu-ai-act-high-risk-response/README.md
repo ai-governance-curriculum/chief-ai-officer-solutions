@@ -1,6 +1,6 @@
 # Capstone 302 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-302-eu-ai-act-high-risk-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/projects/project-302-eu-ai-act-high-risk-response).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-302-eu-ai-act-high-risk-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/projects/project-302-eu-ai-act-high-risk-response).
 
 7 worked deliverables + synthesis memo for
 Kerridge Healthcare's EU AI Act conformity

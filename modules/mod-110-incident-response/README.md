@@ -1,6 +1,6 @@
 # Module 110 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-110-incident-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-110-incident-response).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-110-incident-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-110-incident-response).
 
 Same conventions — worked answers, not the answer.
 

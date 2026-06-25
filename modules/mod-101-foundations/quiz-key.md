@@ -1,6 +1,6 @@
 # Module 101 — Quiz Answer Key
 
-Answers and short explanations for the [Module 101 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-101-foundations/quiz.md).
+Answers and short explanations for the [Module 101 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-101-foundations/quiz.md).
 
 ---
 

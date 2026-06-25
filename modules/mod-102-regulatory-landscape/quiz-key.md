@@ -1,6 +1,6 @@
 # Module 102 — Quiz Answer Key
 
-Answers and short explanations for the [Module 102 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-102-regulatory-landscape/quiz.md).
+Answers and short explanations for the [Module 102 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-102-regulatory-landscape/quiz.md).
 
 ---
 

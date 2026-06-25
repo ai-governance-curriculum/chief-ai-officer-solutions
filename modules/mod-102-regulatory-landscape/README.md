@@ -1,6 +1,6 @@
 # Module 102 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-102-regulatory-landscape`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-102-regulatory-landscape).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-102-regulatory-landscape`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-102-regulatory-landscape).
 
 Same conventions as mod-101 — worked answers, not the answer.
 Each solution ends with reasoning notes explaining where it

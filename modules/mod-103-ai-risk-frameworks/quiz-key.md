@@ -1,6 +1,6 @@
 # Module 103 — Quiz Answer Key
 
-Answers and explanations for the [Module 103 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-103-ai-risk-frameworks/quiz.md).
+Answers and explanations for the [Module 103 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-103-ai-risk-frameworks/quiz.md).
 
 ---
 

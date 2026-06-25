@@ -1,6 +1,6 @@
 # Module 105 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-105-responsible-ai-and-ethics`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-105-responsible-ai-and-ethics).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-105-responsible-ai-and-ethics`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-105-responsible-ai-and-ethics).
 
 Same conventions as mod-101 to mod-104 — worked answers,
 not the answer. Each solution ends with reasoning notes.

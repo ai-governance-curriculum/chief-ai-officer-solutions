@@ -1,6 +1,6 @@
 # Module 107 — Quiz Answer Key
 
-Answers and explanations for the [Module 107 quiz](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/blob/main/lessons/mod-107-ai-security/quiz.md).
+Answers and explanations for the [Module 107 quiz](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/blob/main/lessons/mod-107-ai-security/quiz.md).
 
 ---
 

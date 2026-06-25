@@ -1,6 +1,6 @@
 # Module 103 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-103-ai-risk-frameworks`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-103-ai-risk-frameworks).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-103-ai-risk-frameworks`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-103-ai-risk-frameworks).
 
 Same conventions as mod-101 and mod-102 — worked answers,
 not the answer. Each solution ends with reasoning notes.

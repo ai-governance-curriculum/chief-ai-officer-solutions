@@ -1,6 +1,6 @@
 # Module 112 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-112-cao-operating-model`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-112-cao-operating-model).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-112-cao-operating-model`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-112-cao-operating-model).
 
 Closing module of the foundational track. Same
 conventions — worked answers, not the answer.

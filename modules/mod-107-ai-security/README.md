@@ -1,6 +1,6 @@
 # Module 107 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-107-ai-security`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-107-ai-security).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-107-ai-security`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-107-ai-security).
 
 Same conventions as mod-101 to mod-106 — worked answers,
 not the answer. Each solution ends with reasoning notes.

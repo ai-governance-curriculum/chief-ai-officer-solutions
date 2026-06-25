@@ -1,6 +1,6 @@
 # Capstone 301 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-301-stand-up-ai-governance-program`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/projects/project-301-stand-up-ai-governance-program).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-301-stand-up-ai-governance-program`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/projects/project-301-stand-up-ai-governance-program).
 
 Seven worked solutions for the deliverables, plus a
 worked synthesis memo at day 90. Same conventions as

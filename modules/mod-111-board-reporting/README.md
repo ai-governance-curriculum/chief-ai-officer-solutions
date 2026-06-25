@@ -1,6 +1,6 @@
 # Module 111 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-111-board-reporting`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-111-board-reporting).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-111-board-reporting`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-111-board-reporting).
 
 Same conventions — worked answers, not the answer.
 

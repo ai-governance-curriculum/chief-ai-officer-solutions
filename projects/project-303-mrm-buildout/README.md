@@ -1,6 +1,6 @@
 # Capstone 303 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-303-mrm-buildout`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/projects/project-303-mrm-buildout).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-303-mrm-buildout`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/projects/project-303-mrm-buildout).
 
 6 worked deliverables + synthesis memo for
 Tessera Bank's 90-day MRM extension to AI/ML.

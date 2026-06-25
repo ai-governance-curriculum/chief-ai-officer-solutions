@@ -1,6 +1,6 @@
 # Capstone 304 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-304-llm-data-leak-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/projects/project-304-llm-data-leak-response).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / projects/project-304-llm-data-leak-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/projects/project-304-llm-data-leak-response).
 
 6 worked deliverables + synthesis memo
 for Northrise AI's GuardianGPT

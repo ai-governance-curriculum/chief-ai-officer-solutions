@@ -1,6 +1,6 @@
 # Module 101 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-101-foundations`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-101-foundations).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-101-foundations`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-101-foundations).
 
 Each exercise has its own subdirectory with a `SOLUTION.md`.
 These are *worked answers* — one defensible position per

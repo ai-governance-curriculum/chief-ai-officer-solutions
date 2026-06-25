@@ -1,6 +1,6 @@
 # Module 109 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-109-compliance-operations`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-109-compliance-operations).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-109-compliance-operations`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-109-compliance-operations).
 
 Same conventions — worked answers, not the answer.
 

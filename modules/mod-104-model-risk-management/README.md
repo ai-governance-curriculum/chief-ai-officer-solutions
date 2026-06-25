@@ -1,6 +1,6 @@
 # Module 104 — Reference Solutions
 
-Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-104-model-risk-management`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-learning/tree/main/lessons/mod-104-model-risk-management).
+Reference solutions for [`ai-infra-chief-ai-officer-learning / lessons/mod-104-model-risk-management`](https://github.com/ai-governance-curriculum/chief-ai-officer-learning/tree/main/lessons/mod-104-model-risk-management).
 
 Same conventions as mod-101 to mod-103 — worked answers,
 not the answer. Each solution ends with reasoning notes.
